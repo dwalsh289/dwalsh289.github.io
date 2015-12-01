@@ -1,0 +1,9 @@
+$(function(){
+  
+ $("#candy").click(function(){
+ })
+
+ 
+  
+
+});

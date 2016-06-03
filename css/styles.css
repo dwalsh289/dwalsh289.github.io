@@ -63,7 +63,7 @@ body {
   margin: 2px;
 }
 
-/*FOR SITE-WIDE NAVE BAR*/
+/*FOR SITE-WIDE NAV BAR*/
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
 .snip1198 {
   font-family: 'Raleway', Arial, sans-serif;
@@ -343,7 +343,7 @@ figure.snip1192 .author h5 span {
 }
 */
 
-    .cloud9-item {
+    .item {
       height: 300px;
       width: 180px;
     }
